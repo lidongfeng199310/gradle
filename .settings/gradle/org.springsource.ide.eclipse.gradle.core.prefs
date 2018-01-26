@@ -1,0 +1,5 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleProjectPreferences
+#Fri Jan 26 11:41:18 CST 2018
+build.family.org.gradle.tooling.model.eclipse.HierarchicalEclipseProject=;controller;entity;mapper;service;
+org.springsource.ide.eclipse.gradle.linkedresources=
+org.springsource.ide.eclipse.gradle.rootprojectloc=
